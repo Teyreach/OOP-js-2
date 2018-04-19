@@ -1,2 +1,2 @@
-# zadanie11.5
-https://teyreach.github.io/zadanie11.5/
+# OOP-js-2
+ https://teyreach.github.io/OOP-js-2/
